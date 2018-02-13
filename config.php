@@ -3,6 +3,6 @@
 class config{
     const SERVERNAME="localhost";
     const DBNAME="marcassin";
-    const USER="marcassin";
-    const PASSWORD="LJ769Ika86e5VnXK";
+    const USER="root";
+    const PASSWORD="Epsi2018!";
 }
